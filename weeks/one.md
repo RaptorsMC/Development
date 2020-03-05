@@ -1,7 +1,6 @@
 # Week 1
 
 **Goal:** This week we aim to have the core plugins for, ranks, currency, and chat completed and converted to the newest API we are using.
-
 **Progress:** This week's will be based off of [The Core](https://github.com/RaptorsMC/Development/projects/1)'s status.
 
 ## Changelogs 
