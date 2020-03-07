@@ -1,4 +1,4 @@
-# Week 1 - Prepare for upcoming things
+# Week 2 - Unknown
 **Week:** March 8th 2020 - March 15th 2020
 
 **Goal:** Unknown <br />
