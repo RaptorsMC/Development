@@ -1,9 +1,10 @@
-# Week 1
+# Week 1 - Prepare for upcoming things
+**Week:** March 1st 2020 - March 7th 2020
 
-**Goal:** This week we aim to have the core plugins for, ranks, currency, and chat completed and converted to the newest API we are using. <br />
-**Progress:** This week's will be based off of [The Core](https://github.com/RaptorsMC/Development/projects/1)'s status.
+**Goal:** This week we aim to have the core plugins for, ranks, currency, and chat completed and converted to the newest API we are using. As well as the completed plugin for the core [The Core](https://github.com/RaptorsMC/Development/projects/1). <br />
+**Progress:** 57%
 
-## Changelogs 
+## Changelogs - Completed
  + Changed API to 4.0.0 for more support.
  + Started working on a [bot for the discord](https://github.com/RaptorsMC/Development/projects/1), this will be elaborated on in the future
  + Created a core plugin that manages the core plugins, this was made in an effort to help PREVENT people from using plugins if stolen.
