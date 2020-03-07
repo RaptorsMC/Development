@@ -6,4 +6,5 @@
 ## Changelogs 
  + Changed API to 4.0.0 for more support.
  + Started working on a [bot for the discord](https://github.com/RaptorsMC/Development/projects/1), this will be elaborated on in the future
+ + Created a core plugin that manages the core plugins, this was made in an effort to help PREVENT people from using plugins if stolen.
 
