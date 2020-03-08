@@ -13,6 +13,7 @@ PRE      | 100% | ✔
 
 
 **LEGEND:**
+
 Emote | Meaning
 ----- | -------
 ✔ | Completed
